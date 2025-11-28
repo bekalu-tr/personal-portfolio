@@ -25,4 +25,8 @@ h3{
 }
 #cont{
 color: black;
+}footer{
+    background-color: darkgoldenrod;
+    text-align: center;
+    height: 80px;
 }
