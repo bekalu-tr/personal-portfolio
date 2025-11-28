@@ -1,15 +1,16 @@
 body{
-    background-color: black;
-}
-h1{
-    color: white;
-    border-radius: 10px;
-    border-width: 50px;
-    padding-right: 10px;
-    
-}
-h3{
-    color: aqua;
-}h4{
     background-color: white;
+    color: blanchedalmond;
+}
+header{
+background-color: black;
+text-align: left;
+padding: 20px;
+}header #b{
+    width: 60%;       
+    height: 50%;
+    border-radius: 70%;
+
+}
+
 }
