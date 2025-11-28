@@ -5,12 +5,16 @@ body{
 header{
 background-color: black;
 text-align: left;
-padding: 20px;
+padding: 5px;
 }header #b{
-    width: 60%;       
-    height: 50%;
+    width: 30%;       
+    height: 20%;
     border-radius: 70%;
 
+}h2
+{
+    color: lightcoral;
+}p{
+    color: black;
 }
 
-}
