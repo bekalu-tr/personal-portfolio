@@ -1,5 +1,5 @@
 body{
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     color: blanchedalmond;
 }
 header{
@@ -10,6 +10,7 @@ padding: 5px;
     width: 30%;       
     height: 20%;
     border-radius: 70%;
+    padding: 5px;
 
 }h2
 {
@@ -22,11 +23,28 @@ h3{
 }
 #project{
     color: black;
+    background-color: #f1f1f1;
 }
-#cont{
-color: black;
+#contact{
+padding: 2%;
+ background-color: rgb(189, 180, 160);
+ 
+
 }footer{
     background-color: darkgoldenrod;
     text-align: center;
-    height: 80px;
+    height: 40px;
+    padding: 30px;
+    
+}#about{
+    background-color: aquamarine;
+    padding: 2%;
+}#proj{
+    background-color: #f1f1f1;
+    padding: 2%;
+}
+#cont{
+
+    background-color: rgb(189, 180, 160);
+    color: blue;
 }
